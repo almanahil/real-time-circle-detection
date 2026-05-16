@@ -43,3 +43,8 @@ python final_tuned_circle.py
 3. False circle rejection by radius filtering
 4. Frame-to-frame stability tracking
 5. Anti-flicker mechanism (holds position for 8 frames)
+
+## Screenshots
+
+![No circle detected](no%20circle%20screenshot.png)
+![Circle detected](circle%20detected%20screenshot.png)
